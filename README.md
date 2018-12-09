@@ -1,5 +1,4 @@
 # SoapWS-SpringBoot
-Soap Web Services Example Application With Spring Boot
 Projeyi Spring Boot kullanarak yapmamın sebebi;Spring Boot üzerinde zaten bir seyler ogrenmeye calisiyorum ve bu projeyi de spring boot ile yapmak istedim.
 Istediginiz herseyi yaptigimi dusunuyorum.Umarim bir yanlislik olmaz.
 Ekran resimlerini yine resources dizini altinda bulabilirsiniz.
